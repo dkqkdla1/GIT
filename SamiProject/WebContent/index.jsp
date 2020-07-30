@@ -12,6 +12,11 @@
 	commit 3
 	commit 4
 	commit 5
+	<p></p>
 	<footer> footer 추가</footer>
 </body>
+<script>
+	console.log('hello vs-code');
+
+</script>
 </html>
