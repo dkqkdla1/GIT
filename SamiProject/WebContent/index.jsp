@@ -17,6 +17,6 @@
 </body>
 <script>
 	console.log('hello vs-code');
-
+	alert('hello Git_copy');
 </script>
 </html>
