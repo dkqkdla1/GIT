@@ -11,5 +11,6 @@
 	hello world!!
 	commit 3
 	commit 4
+	<footer> footer 추가</footer>
 </body>
 </html>
